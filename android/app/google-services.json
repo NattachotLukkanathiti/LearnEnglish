@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "244454967069",
+    "project_id": "lern-ce57f",
+    "storage_bucket": "lern-ce57f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244454967069:android:b5edef350c44748c0a43f4",
+        "android_client_info": {
+          "package_name": "com.example.finalf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244454967069-797uvh3fs029bu5di0i1fgc8ondbk5h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvyU8lKvzWRz_sZc_fd8shql98vQu05OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244454967069-797uvh3fs029bu5di0i1fgc8ondbk5h3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244454967069-ev6rd876e8qluvk9bd3ah98rgkd3b3q5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
